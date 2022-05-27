@@ -25,9 +25,9 @@ namespace DataStructure
             Console.WriteLine(frequency);
          
             LinkedHashMap.Remove("avoidable");
-            int frequency1 = LinkedHashMap.Get("avoidable");
+            int pop = LinkedHashMap.Get("avoidable");
 
-            Console.WriteLine(frequency1);
+            Console.WriteLine(pop);
 
 
         }
